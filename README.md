@@ -1,4 +1,4 @@
-# specfem_helper_p
+# specfem_helper_private
 
 ## Dependencies
 Get the utility functions
