@@ -1,9 +1,11 @@
 # specfem_helper_private
 
 ## Dependencies
+
+Install specfem_tomo_helper from https://github.com/thurinj/specfem_tomo_helper
+
 Get the utility functions
 
-    git clone https://github.com/thurinj/specfem_tomo_helper
     git clone https://github.com/vsilwal/IITR_seismo
     
 For utm2ll:
